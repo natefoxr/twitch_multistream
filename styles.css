@@ -1,0 +1,32 @@
+.player1 {
+    position: absolute; 
+    padding: 10px; 
+    top: 0; 
+    left: 0;
+}
+
+.player2 {
+    position: absolute;
+    padding: 10px;
+    top: 0;
+    right: 0;
+}
+
+.player3 {
+    position: absolute;
+    padding: 10px;
+    bottom: 0;
+    right: 0;
+}
+
+.player4 {
+    position: absolute;
+    padding: 10px;
+    bottom: 0;
+    left: 0;
+}
+
+.hide {
+    display: none;
+}
+
